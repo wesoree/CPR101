@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/************************
+* wesoree
+* WES DEVELOPMENT CO
+* DATE WRITTEN:MAY 5 2025
+*************************/
 int main(void){
 	printf("hello world\n");
 	//a comment
